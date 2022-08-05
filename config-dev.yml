@@ -1,3 +1,2 @@
-logging:
-  level:
-    com.srz.springcloud.service.PaymentFeignService: debug
+config:
+  info: "master branch,cloud-config/config-dev,yml version=2"
